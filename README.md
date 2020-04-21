@@ -30,4 +30,4 @@ use  [App Icon](https://appicon.co/#image-sets) to generate app icons
 ## References
 
 * [Paint Code](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
-* [Angela](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16250858#overview)
+* [Angela](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
