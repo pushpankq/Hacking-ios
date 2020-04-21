@@ -19,3 +19,9 @@ use  [App Icon](https://appicon.co/#image-sets) to generate app icons
 
 [Color Hunt](https://colorhunt.co/) is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes
 
+## SideLoading Troubleshooting FlowChart 
+
+![Xcode Sideloading Troubleshooting](https://user-images.githubusercontent.com/14274827/79842754-e23b5280-83d6-11ea-9875-4d899b440305.jpg)
+
+
+
