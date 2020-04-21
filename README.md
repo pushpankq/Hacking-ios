@@ -4,5 +4,5 @@ Importentios materials
 
 ## App Icon Generator
 
-use https://appicon.co/#image-sets to generate app icons
+use  [App Icon](https://appicon.co/#image-sets) to generate app icons
 
