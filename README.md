@@ -6,6 +6,10 @@ Importentios materials
 
 use  [App Icon](https://appicon.co/#image-sets) to generate app icons
 
+## Map of Xcode 
+
+![Map of Xcode  iOS13 -1](https://user-images.githubusercontent.com/14274827/79844209-ff712080-83d8-11ea-8dae-629c08711018.jpg)
+
 ## Xcode Keyboard shorcuts
 
 ![keyboard shortcut-1](https://user-images.githubusercontent.com/14274827/79841774-87552b80-83d5-11ea-8292-aae00f1a5721.jpg)
