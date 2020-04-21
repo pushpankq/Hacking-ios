@@ -27,5 +27,7 @@ use  [App Icon](https://appicon.co/#image-sets) to generate app icons
 
 ![Xcode Sideloading Troubleshooting](https://user-images.githubusercontent.com/14274827/79842754-e23b5280-83d6-11ea-9875-4d899b440305.jpg)
 
+## References
 
-
+* [Paint Code](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+* [Angela](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16250858#overview)
